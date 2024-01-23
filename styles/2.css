@@ -3,6 +3,7 @@ body {
   max-width: 80%;
   margin: auto;
   background-color: hsl(0, 100%, 99%);
+  font-size: 2vw;
 }
 
 * {
