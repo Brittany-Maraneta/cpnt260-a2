@@ -61,4 +61,5 @@ img {
   text-align: center;
   max-width: 60%;
   margin: auto;
+  object-fit: cover;
 }
